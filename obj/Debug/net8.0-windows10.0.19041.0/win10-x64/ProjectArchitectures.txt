@@ -1,0 +1,1 @@
+C:\Users\a4\Source\Repos\mslearn-dotnetmaui-use-shared-resources\exercise3\TipCalculator\TipCalculator.csproj;x64
